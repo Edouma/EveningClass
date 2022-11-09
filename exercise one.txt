@@ -1,2 +1,3 @@
 I am learning how to use and push my project using git and github.
-I believe that am going to learn alot and implement the same in my project
+I believe that am going to learn alot and implement the same in my project.
+For this session we will learn Git workflow.
