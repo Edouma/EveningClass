@@ -1,3 +1,5 @@
 In this file we will also implement how to work with git in live projects
 in exercise two we will further understand Git workflow basically from
-staging area to Repo
+staging area to Repo.
+repository
+I believe further with this example
