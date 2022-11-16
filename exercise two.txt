@@ -3,3 +3,4 @@ in exercise two we will further understand Git workflow basically from
 staging area to Repo.
 repository
 I believe further with this example
+changes done
