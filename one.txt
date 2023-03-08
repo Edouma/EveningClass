@@ -1,2 +1,3 @@
 I am learning how to use and work with GIT.
-Learning GIT i s going to be interesting and fun.
+Learning GIT is going to be interesting and fun.
+added the third line of code.
