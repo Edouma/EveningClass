@@ -1,2 +1,1 @@
-I am learning how to use and work with GIT.
-Learning GIT i s going to be interesting and fun.
+this is my third file
